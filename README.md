@@ -87,7 +87,7 @@ You can find other examples here:
 * [Node.js](examples/nodejs/Dockerfile)
 * [dotnet](examples/dotnet/Dockerfile)
 
-To run any example, go the the directory for the language and run
+To run any example, go to the directory for the language and run
 ```
 docker build -t myapp .
 docker run -t myapp
